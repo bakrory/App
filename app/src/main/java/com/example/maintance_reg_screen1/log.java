@@ -58,6 +58,7 @@ public class log extends AppCompatActivity {
             } else {
              //   String name = txtusernam.getText().toString();
              //   int password = Integer.parseInt(txtpassword.getText().toString());
+                //vervfev
 
                 Database db = new Database();
                 Connection conn = db.ConnectDB();
